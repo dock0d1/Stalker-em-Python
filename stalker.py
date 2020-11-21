@@ -3,7 +3,7 @@ from instapy import smart_run
 from instapy import set_workspace
 import getpass
 
-set_workspace('/home/fabio/Instapy')
+set_workspace('/home/Dock0d1/Instapy')
 
 #credenciais
 insta_username = input("Usuário: ")
